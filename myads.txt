@@ -1,5 +1,5 @@
 {
-"admob":"OFF",
+"admob":"ON",
 "applovin":"ON",
 "IronSource":"ON",
 "UnityBanner":"ON",
