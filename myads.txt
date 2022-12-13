@@ -3,6 +3,6 @@
 "applovin":"ON",
 "IronSource":"ON",
 "UnityBanner":"ON",
-"UnityInter":"ON",
+"UnityInter":"off",
 "adsONOff":true
 }
