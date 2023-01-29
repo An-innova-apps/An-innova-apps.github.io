@@ -1,7 +1,7 @@
 {
-"admob":"ON",
+"admob":"OFF",
 "applovin":"OFF",
-"IronSource":"OFF",
+"IronSource":"ON",
 "UnityBanner":"OFF",
 "UnityInter":"off",
 "adsONOff":true
