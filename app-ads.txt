@@ -4,6 +4,9 @@ facebook.com, 1130862071151800, DIRECT, c3e20eee3f780d68
 #ironsource
 ironsrc.com, 258639, Direct
 
+#Applovin
+applovin.com, 98c9089f0c0e8f3774366d70471ab95d, DIRECT
+
 
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
