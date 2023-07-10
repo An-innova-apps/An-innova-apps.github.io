@@ -1,16 +1,1 @@
-[
-  {
-  "title": "Play Fun Quizzes and <b>Get Rewards</b>",
-  "icon": "https://i.ibb.co/C0wYTXx/Game-icon-1.png",
-  "btnTxt": "PLAY",
-  "link": "https://play474.atmequiz.com/",
-  "isOpenWithChrome": true
-   },
-  {
-   "title": "Play Fun Games and <b>Get Rewards</b>",
-  "icon": "https://i.ibb.co/whW75BN/Game-icon-2.png",
-  "btnTxt": "PLAY",
-  "link": "https://play474.atmegame.com/",
-  "isOpenWithChrome": true
-  }
-]
+
