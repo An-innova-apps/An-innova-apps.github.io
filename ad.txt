@@ -1,1 +1,9 @@
-
+[
+  {
+  "title": "Video Downloader For <b>Threads</b>",
+  "icon": "https://play-lh.googleusercontent.com/ecEB_PMIRTT0ShhgevKjsVxffUtxqcvm1j7BDt9Ciuxri32KwvwkNfuSHfs4_0hdcWU=w240-h480-rw",
+  "btnTxt": "INSTALL NOW",
+  "link": "https://play.google.com/store/apps/details?id=threadsly.threads.video.downloader.app",
+  "isOpenWithChrome": false
+   }
+]
